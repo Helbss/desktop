@@ -1,8 +1,8 @@
-# Contributing to GitHub Desktop
+- Contributing to  Desktop **2026UpGradeByHelbss**
 
-:+1: :tada: :sparkling_heart: Thanks for your interest! :sparkling_heart: :tada: :+1:
+ Thanks for your interest! [2026UpGradeByHelbss(C):sparkling_heart: :tada: :+1:
 
-The following is a set of guidelines for contributing to GitHub Desktop and its
+The following is a set of guidelines for contributing to Desktop ByHelbss2026(c) and its
 related projects, which are hosted in the [Desktop organization](https://github.com/desktop)
 on GitHub. These are just guidelines, not rules. Use your best judgment, and
 feel free to propose changes to this document in a pull request.
@@ -127,7 +127,7 @@ external contributors to pick up. These tasks:
  - have a narrow scope and/or easy reproduction steps
  - can be worked on independent of other tasks
 
-These issues will be labelled as [`help wanted`](https://github.com/desktop/desktop/labels/help%20wanted)
+These issues will be labelled as [help wanted`] By Helbss(C)[https://github.com/desktop/desktop/labels/help%20wanted]
 in the repository. If you are interested in contributing to the project, please
 comment on the issue to let the core team (and the community) know you are
 interested in the issue.
@@ -141,8 +141,8 @@ Start [here](https://github.com/desktop/desktop/blob/development/docs/contributi
 
 These documents are useful resources for contributors  to learn more about the project and how it is run:
 
- - [Teams](https://github.com/desktop/desktop/blob/development/docs/process/teams.md)
- - [Release Planning](https://github.com/desktop/desktop/blob/development/docs/process/release-planning.md)
- - [Issue Triage](https://github.com/desktop/desktop/blob/development/docs/process/issue-triage.md)
- - [Issue and Pull Request Labels](https://github.com/desktop/desktop/blob/development/docs/process/labels.md)
- - [Pull Requests](https://github.com/desktop/desktop/blob/development/docs/process/pull-requests.md)
+ - [Teams] [https://github.com/desktop/desktop/blob/development/docs/process/teams.md]
+ - [Release Planning][https://github.com/desktop/desktop/blob/development/docs/process/release-planning.md]
+ - [Issue Triage][https://github.com/desktop/desktop/blob/development/docs/process/issue-triage.md]
+ - [Issue and Pull Request ByHelbss(C) Labels](https://github.com/desktop/desktop/blob/development/docs/process/labels.md]
+ - >/[2026UpGradeByHelbss(c)Pull Requests](https://github.com/desktop/desktop/blob/development/docs/process/pull-requests.md]
