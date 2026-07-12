@@ -1,6 +1,16 @@
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+
 # Contributing to GitHub Desktop
 
 :+1: :tada: :sparkling_heart: Thanks for your interest! :sparkling_heart: :tada: :+1:
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 The following is a set of guidelines for contributing to GitHub Desktop and its
 related projects, which are hosted in the [Desktop organization](https://github.com/desktop)
@@ -9,6 +19,10 @@ feel free to propose changes to this document in a pull request.
 
 Note that GitHub Desktop is an evolving project, so expect things to change over
 time as the team learns, listens and refines how we work with the community.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 #### Table Of Contents
 
@@ -22,6 +36,10 @@ time as the team learns, listens and refines how we work with the community.
   * [Help Wanted](#help-wanted)
 
 - [Process Documentation](#process-documentation)
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 ## What should I know before I get started?
 
@@ -30,18 +48,30 @@ time as the team learns, listens and refines how we work with the community.
 This project adheres to the Contributor Covenant [code of conduct](../CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 Please report unacceptable behavior to [opensource+desktop@github.com](mailto:opensource+desktop@github.com).
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 ### The Roadmap
 
 We are working on a roadmap you can read [here](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
 The immediate milestones are more detailed, and the latter milestones are more
 fuzzy and subject to change.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 If you have ideas or suggestions please read the
 [Suggesting Enhancements](#suggesting-enhancements) section below to understand
 how to contribute your feedback.
 
 ## How Can I Contribute?
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 ### Reporting Bugs
 
@@ -49,6 +79,10 @@ This section guides you through submitting a bug report for GitHub Desktop.
 Following these guidelines helps maintainers and the community understand your
 report :pencil:, reproduce the behavior :computer: :computer:, and find related
 reports :mag_right:.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Before creating bug reports, please check [this list](#before-submitting-a-bug-report)
 as you might find out that you don't need to create one. When you are creating
@@ -61,6 +95,9 @@ Fill out the required template, the information it asks for helps us resolve iss
 to see if the problem has already been reported. If it does exist, add a
 :thumbsup: to the issue to indicate this is also an issue for you, and add a
 comment to the existing issue if there is extra information you can contribute.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 #### How Do I Submit A Bug Report?
 
@@ -68,6 +105,10 @@ Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/).
 
 Simply create an issue on the [GitHub Desktop issue tracker](https://github.com/desktop/desktop/issues/new?template=bug_report.yaml)
 and fill out the provided issue template.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 The information we are interested in includes:
 
@@ -77,12 +118,21 @@ The information we are interested in includes:
  - other relevant information - log files, screenshots, etc
 
 ### Suggesting Enhancements
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 This section guides you through submitting an enhancement suggestion for
 GitHub Desktop, including completely new features and minor improvements to
 existing functionality. Following these guidelines helps maintainers and the
 community understand your suggestion :pencil: and find related suggestions
 :mag_right:.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion)
 as you might find out that you don't need to create one. When you are creating
@@ -105,6 +155,10 @@ Simply create an issue on the [GitHub Desktop issue tracker](https://github.com/
 and fill out the provided issue template.
 
 Some additional advice:
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 * **Use a clear and descriptive title** for the feature request
 * **Provide a step-by-step description of the suggested enhancement**
@@ -146,3 +200,9 @@ These documents are useful resources for contributors  to learn more about the p
  - [Issue Triage](https://github.com/desktop/desktop/blob/development/docs/process/issue-triage.md)
  - [Issue and Pull Request Labels](https://github.com/desktop/desktop/blob/development/docs/process/labels.md)
  - [Pull Requests](https://github.com/desktop/desktop/blob/development/docs/process/pull-requests.md)
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
