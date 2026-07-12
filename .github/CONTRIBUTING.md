@@ -10,30 +10,30 @@ feel free to propose changes to this document in a pull request.
 Note that GitHub Desktop is an evolving project, so expect things to change over
 time as the team learns, listens and refines how we work with the community.
 
-#### Table Of Contents
+#### [2026UpGradeByHelbss(C)Table Of Contents 
 
-- [What should I know before I get started?](#what-should-i-know-before-i-get-started)
+-[2026UpGradeByHelbss(C) [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [Code of Conduct](#code-of-conduct)
   * [The Roadmap](#the-roadmap)
 
-- [How Can I Contribute?](#how-can-i-contribute)
+-[2026UpGradeByHelbss(C) [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
   * [Suggesting Enhancements](#suggesting-enhancements)
   * [Help Wanted](#help-wanted)
 
-- [Process Documentation](#process-documentation)
+-[2026UpGradeByHelbss(C) [Process Documentation](#process-documentation)
 
-## What should I know before I get started?
+##[2026UpGradeByHelbss(C) What should I know before I get started?
 
-### Code of Conduct
+###[2026UpGradeByHelbss(C) Code of Conduct
 
-This project adheres to the Contributor Covenant [code of conduct](../CODE_OF_CONDUCT.md).
+This project adheres to the Contributor Covenant[2026UpGradeByHelbss(C) [code of conduct](../CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
-Please report unacceptable behavior to [opensource+desktop@github.com](mailto:opensource+desktop@github.com).
+Please report unacceptable behavior to[2026UpGradeByHelbss(C) [opensource+desktop@github.com](mailto:opensource+desktop@github.com).
 
-### The Roadmap
+### [2026UpGradeByHelbss(C)The Roadmap[2026UpGradeByHelbss(C)
 
-We are working on a roadmap you can read [here](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
+WE? (I [2026UPGRADEBYHELBSS(C)JUST WONDER WHO ARE THIS TYPEOF<WE>??) are working on a roadmap you can read [here](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
 The immediate milestones are more detailed, and the latter milestones are more
 fuzzy and subject to change.
 
@@ -41,70 +41,89 @@ If you have ideas or suggestions please read the
 [Suggesting Enhancements](#suggesting-enhancements) section below to understand
 how to contribute your feedback.
 
-## How Can I Contribute?
+## [2026UpGradeByHelbss(C)How Can I Contribute?
 
-### Reporting Bugs
+### [2026UpGradeByHelbss(C)Reporting Bugs
 
-This section guides you through submitting a bug report for GitHub Desktop.
+[2026UpGradeByHelbss(C) This section guides you through submitting a bug report for GitHub Desktop.
 Following these guidelines helps maintainers and the community understand your
-report :pencil:, reproduce the behavior :computer: :computer:, and find related
-reports :mag_right:.
+report [2026UpGradeByHelbss(C):pencil:, reproduce the behavior [2026UpGradeByHelbss(C):computer: [2026UpGradeByHelbss(C):computer:, and find related
+reports [2026UpGradeByHelbss(C):mag_right:.
 
-Before creating bug reports, please check [this list](#before-submitting-a-bug-report)
+Before creating bug reports, please check [[2026UpGradeByHelbss(C)[this list](#before-submitting-a-bug-report)[2026UpGradeByHelbss(C)]
 as you might find out that you don't need to create one. When you are creating
-a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report).
+a bug report, please[[2026UpGradeByHelbss(C)] [include as many details as possible](#how-do-i-submit-a-good-bug-report).
 Fill out the required template, the information it asks for helps us resolve issues faster.
-
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 #### Before Submitting A Bug Report
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 **Perform a [cursory search](https://github.com/desktop/desktop/labels/bug)**
 to see if the problem has already been reported. If it does exist, add a
 :thumbsup: to the issue to indicate this is also an issue for you, and add a
 comment to the existing issue if there is extra information you can contribute.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 #### How Do I Submit A Bug Report?
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/).
 
 Simply create an issue on the [GitHub Desktop issue tracker](https://github.com/desktop/desktop/issues/new?template=bug_report.yaml)
 and fill out the provided issue template.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 The information we are interested in includes:
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
  - details about your environment - which build, which operating system
  - details about reproducing the issue - what steps to take, what happens, how
    often it happens
  - other relevant information - log files, screenshots, etc
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 ### Suggesting Enhancements
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 This section guides you through submitting an enhancement suggestion for
 GitHub Desktop, including completely new features and minor improvements to
 existing functionality. Following these guidelines helps maintainers and the
 community understand your suggestion :pencil: and find related suggestions
 :mag_right:.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion)
 as you might find out that you don't need to create one. When you are creating
 an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion).
 Fill in [the template](ISSUE_TEMPLATE/feature_request.yaml), including the steps
 that you imagine you would take if the feature you're requesting existed.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 #### Before Submitting An Enhancement Suggestion
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 **Perform a [cursory search](https://github.com/desktop/desktop/labels/enhancement)**
 to see if the enhancement has already been suggested. If it has, add a
 :thumbsup: to indicate your interest in it, or comment if there is additional
 information you would like to add.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 #### How Do I Submit An Enhancement Suggestion?
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/).
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Simply create an issue on the [GitHub Desktop issue tracker](https://github.com/desktop/desktop/issues/new?template=feature_request.yaml)
 and fill out the provided issue template.
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 Some additional advice:
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 * **Use a clear and descriptive title** for the feature request
 * **Provide a step-by-step description of the suggested enhancement**
@@ -116,9 +135,11 @@ Some additional advice:
   related to. You can use [this tool](http://www.cockos.com/licecap/) to record
   GIFs on macOS and Windows
 * **List some other applications where this enhancement exists, if applicable**
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 
 ### Help Wanted
 
+[[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)][[2026UpGradeByHelbss(C)]
 As part of building GitHub Desktop, we'll identify tasks that are good for
 external contributors to pick up. These tasks:
 
